@@ -1,4 +1,4 @@
-//*Introduction
+	//*Introduction
 
     // Understanding array methods in JavaScript is crucial for writing efficient and readable code. Knowing the right method can simplify your logic and reduce the number of lines of code you need to write 
 
